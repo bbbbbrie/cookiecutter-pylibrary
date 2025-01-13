@@ -1,3 +1,13 @@
+[project]
+authors = [
+  {name = "Brie Carranza", email = "hi@brie.dev"}
+]
+maintainers = [
+  {name = "Brie Carranza", email = "hi@brie.dev"}
+]
+description = "✨ Something cool one day..."
+readme = "README.md"
+
 [build-system]
 requires = [
     "setuptools>=40.1.0",
