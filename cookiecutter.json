@@ -17,7 +17,7 @@
     "year_from": "{% now 'utc', '%Y' %}",
     "year_to": "{% now 'utc', '%Y' %}",
     "version": "0.0.0",
-    "version_manager": ["bump2version", "tbump"],
+    "version_manager": "bump-my-verson",
     "license": "BSD 3-Clause License",
     "c_extension_support": ["no", "yes", "cffi", "cython"],
     "c_extension_optional": ["no", "yes"],
